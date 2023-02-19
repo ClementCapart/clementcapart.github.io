@@ -1,0 +1,7 @@
+baseURL = 'https://clementcapart.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'simplog'
+
+[params]
+	colorTheme = "red"
